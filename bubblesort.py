@@ -16,6 +16,3 @@ for x in range(0, len(nums)):
 			nums[x], nums[y] = nums[y], nums[x]
 		print(x, y)
 print(nums)
-
-
-			
